@@ -65,13 +65,7 @@ main .home::before{
   background-color: rgba(0, 0, 0, 0.572);
   z-index: 1;
 }
-main .home h1{
-  font-size: 60px;
-}
-/* about info index page */
-.about .container .about-info h1{
-  font-size: 43px;
-}
+
 /* home project article page */
 .reservation{
   background-image: url("/images/reserve_bg_pic.jpg");
