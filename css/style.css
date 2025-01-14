@@ -10,14 +10,9 @@
   --font-two:"Mulish", serif;
   --font-size-button: 1.058rem;
   --color-one: rgb(250,143,45);
-  --color-black: black;
   --text-white: #FFFEFE;
   --color-box: #0F1C20;
   --color-p:#DDDDDC;
-  --padding-button:17px 34px;
-  --border-radius-button:5px;
-  --transition-button: all ease 0.3s;
-  --border-radius-box : 8px;
 }
 .bg-color-box{
   background-color: var(--color-box);
