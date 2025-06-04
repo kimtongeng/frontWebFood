@@ -1,28 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>food website</title>
-    <link rel="stylesheet" href="./css/style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-</head>
-<body>
-   <header>
-    <div class="container">
-        <div class="logo">
-            <img src="./images/icons/food-tray.png" alt="">
-        </div>
-        <nav>
-            <ul>
-                <li><a href="./index.html">Home</a></li>
-                <li><a href="./page/project.html">Project</a></li>
-                <li><a href="./page/articale.html">Article</a></li>
-                <li><a href="./page/contect.html">Contact</a></li>
-            </ul>
-        </nav>
-    </div>
-   </header>
+<template>
+   
     <main>
         <section id="home" class="home">
             <div class="container">
@@ -147,32 +124,13 @@
             </div>
         </section>
     </main>
-    <footer>
-        <div class="container">
-            <div class="footer-logo">
-                <div class="logo">
-                    <img src="./images/icons/food-tray.png" alt="">
-                </div>
-            </div>
-            <div class="body">
-                <nav>
-                    <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">Project</a></li>
-                        <li><a href="#">Article</a></li>
-                        <li><a href="#">Contact</a></li>
-                    </ul>
-                </nav>
-                <p>Copyright © 2024 BBQ Restaurant. All Rights Reserved.</p>
-            </div>
-            <div class="contact">
-                <a href="#"><i class="fa-brands fa-facebook"></i></a>
-                <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                <a href="#"><i class="fa-brands fa-linkedin"></i></a>
-                <a href="#"><i class="fa-brands fa-youtube"></i></a>
-            </div>
-        </div>
-    </footer>
-</body>
-</html>
+</template>
+
+<script setup>
+
+</script>
+
+<style lang="scss" scoped>
+
+</style>
+   
